@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   // 👇 OBLIGATOIRE pour GitHub Pages
-  base: "/drive.prime/",
+  base: "/",
 
   server: {
     host: "",
